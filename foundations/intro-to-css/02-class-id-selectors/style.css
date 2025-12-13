@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd {
+    background-color: hsl(0, 59%, 70%);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+.odd.middle-paragraph {
+    font-size: 24px;
+}
+#div-one {
+    color: hsl(240, 68%, 54%);
+    font-size: 36px;
+}
+#div-two {
+    background-color: rgb(108, 185, 108);
+    font-size: 24px;
+    font-weight: bold;
+}
