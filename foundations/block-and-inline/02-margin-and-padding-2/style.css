@@ -11,13 +11,14 @@ body {
 }
 
 .title {
+  font-size: 16px;
   background: #e3f4ff;
-  padding: 12px;
+  padding: 8px;
 }
 
 .content {
   background: #e3f4ff;
-  padding: 12px;
+  padding: 16px 8px;
 }
 
 .button-container {
@@ -26,7 +27,7 @@ body {
 }
 
 button {
-  padding: 12px;
+  padding: 8px 24px;
   display: block;
   margin: auto;
   background: white;
@@ -40,5 +41,5 @@ button {
 
 div,
 h1 {
-  margin: 12px auto;
+  margin: 8px auto;
 }
